@@ -1,1 +1,2 @@
-
+Task 1 - https://colab.research.google.com/drive/1k__kUxT_TPyIfeA0GQRrdO7myT8l45IA?usp=sharing
+Task 2 - https://colab.research.google.com/drive/1x6uG5CDGKz7YXPsWTMWa1XSxI0suah_c?usp=sharing
